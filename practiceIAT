@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://github.com/carpull99/abc123/edit/main/practiceIAT#L1C19-L1C94'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://github.com/carpull99/abc123.com'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
 
 	return iatExtension({
